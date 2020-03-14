@@ -10,4 +10,5 @@ public class BrommerSpatbordCommand implements Command {
         garagist.vervangSpatBord();
         garagist.checkBandenSpanning();
     }
+
 }

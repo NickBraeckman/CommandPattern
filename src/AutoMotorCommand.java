@@ -4,7 +4,6 @@ public class AutoMotorCommand implements Command {
     public AutoMotorCommand(Garagist garagist){
         this.garagist = garagist;
     }
-
     @Override
     public void execute() {
         garagist.vervangMotor();
