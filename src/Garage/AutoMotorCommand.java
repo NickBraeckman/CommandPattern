@@ -1,3 +1,5 @@
+package Garage;
+
 public class AutoMotorCommand implements Command {
     private Garagist garagist;
 

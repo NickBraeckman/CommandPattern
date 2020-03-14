@@ -1,3 +1,5 @@
+package Garage;
+
 public class BrommerSpatbordCommand implements Command {
     private Garagist garagist;
 

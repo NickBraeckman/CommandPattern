@@ -1,3 +1,5 @@
+package Garage;
+
 public class Klant {
     public static void main(String[] args) {
         Garagist garagist = new Garagist();

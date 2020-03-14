@@ -1,3 +1,5 @@
+package Garage;
+
 public class Garagist {
 
     public void vervangMotor(){
