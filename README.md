@@ -1,2 +1,2 @@
 # CommandPattern
-Two examples to clarify the command pattern
+Two examples to clarify the command pattern (in Dutch)
