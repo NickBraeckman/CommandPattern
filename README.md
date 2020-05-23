@@ -1,2 +1,2 @@
 # Design Patterns
-Examples to clarify the command pattern (in Dutch and English)
+Examples to clarify design patterns (in Dutch and English)
